@@ -1,5 +1,6 @@
 ﻿using Microsoft.EntityFrameworkCore;
 
+
 namespace ContosoUniTARge23
 {
     public class PaginatedList<T> : List<T>
